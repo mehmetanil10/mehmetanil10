@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **mehmetanil000@gmail.com**
 
-<div class="tenor-gif-embed" data-postid="12461938" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/testy-computer-loop-desktop-gif-12461938">Testy Computer GIF</a>from <a href="https://tenor.com/search/testy-gifs">Testy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehmetanil2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetanil2018" height="30" width="40" /></a>
