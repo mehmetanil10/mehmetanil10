@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **.net, Java, Python**
 
 - 📫 How to reach me **mehmetanil000@gmail.com**
+![Uploading testy-computer.gif…]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
