@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **.net, Java, Python**
 
 - 📫 How to reach me **mehmetanil000@gmail.com**
+<div class="tenor-gif-embed" data-postid="15970258" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/spiderman-mask-eye-control-moving-eyes-gif-15970258">Spiderman Mask GIF</a>from <a href="https://tenor.com/search/spiderman-gifs">Spiderman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
