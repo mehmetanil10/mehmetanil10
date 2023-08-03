@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet ANIL</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-![testy-computer](https://github.com/mehmetanil10/mehmetanil10/assets/67124843/c6db8f13-a828-43c2-a122-5af516908f21)
-![computer-nerd](https://github.com/mehmetanil10/mehmetanil10/assets/67124843/a533bab0-88e5-48e6-8303-066e135483f2)
 ![Adsız tasarım (1)](https://github.com/mehmetanil10/mehmetanil10/assets/67124843/2a230cb8-b718-4b2c-a2c1-06ffe2a8ac47)
 - 🌱 I’m currently learning **.net, Java, Python**
 
